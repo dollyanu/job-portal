@@ -146,14 +146,14 @@ Job Portal
 
 ---
 
-## 🔑 Environment Variables
+## Environment Variables
 
 Create a `.env` file inside the Backend folder.
 
 ```env
 PORT=8000
 
-MONGO_URI=your_mongodb_connection_string
+MONGO_URI=your_mongodb_uri
 
 SECRET_KEY=your_secret_key
 
