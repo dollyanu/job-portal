@@ -30,22 +30,22 @@ A modern Full Stack Job Portal web application that connects students with recru
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/HomePage.png)
+![Home Page](./Screenshorts/HomePage.png)
 
 ### 👤 Login Page
-![Login Page](./screenshots/LoginPage.png)
+![Login Page](./Screenshorts/LoginPage.png)
 
 ### 👤 Signup Page
-![Signup Page](./screenshots/SignupPage.png)
+![Signup Page](./Screenshorts/SignupPage.png)
 
 ### 💼 Job Listings
-![Job Page](./screenshots/Jobs.png)
+![Job Page](./Screenshorts/Jobs.png)
 
 ### 👤 Student Profile
-![Student Page](./screenshots/StudentProfile.png)
+![Student Page](./Screenshorts/StudentProfile.png)
 
 ### 🏢 Recruiter Dashboard
-![Recruiter Dashboard Page](./screenshots/Recruiter-dashboard.png))
+![Recruiter Dashboard Page](./Screenshorts/Recruiter-dashboard.png))
 
 ---
 
@@ -169,7 +169,7 @@ API_SECRET=your_cloudinary_api_secret
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/job-portal.git
+git clone https://github.com/dollyanu/job-portal.git
 ```
 
 ### Backend Setup
