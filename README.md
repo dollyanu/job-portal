@@ -16,13 +16,13 @@ A modern Full Stack Job Portal web application that connects students with recru
 <h2>Application Preview</h2>
 
 <p align="center">
-  <img src="./screenshots/home.png" width="45%" />
-  <img src="./screenshots/jobs.png" width="45%" />
+  <img src="./Screenshorts/HomePage.png" width="45%" />
+  <img src="./Screenshorts/Jobs.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./screenshots/profile.png" width="45%" />
-  <img src="./screenshots/recruiter-dashboard.png" width="45%" />
+  <img src="./Screenshorts/StudentProfile.png" width="45%" />
+  <img src="./Screenshorts/Recruiter-dashboard.png" width="45%" />
 </p>
 
 ---
@@ -215,7 +215,6 @@ This project helped strengthen my understanding of:
 - MongoDB Database Design
 - Cloudinary File Uploads
 - Responsive UI Design
-- CRUD Operations
 - Deployment
 
 ---
@@ -244,12 +243,6 @@ git push origin feature-name
 ```
 
 5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
