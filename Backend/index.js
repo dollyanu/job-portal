@@ -21,10 +21,10 @@ app.use(cookieParser());
 const corsOptions = {
     origin:[
     'http://localhost:5173',
-     'https://job-portal-lake-nu.vercel.app/'
+     'https://job-portal-lake-nu.vercel.app',
     ],
     credentials:true
-}
+};
 
 app.use(cors(corsOptions));
 
