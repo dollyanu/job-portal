@@ -6,8 +6,8 @@ A modern Full Stack Job Portal web application that connects students with recru
 
 ## 🚀 Live Demo
 
-- 🌐 Frontend: https://your-frontend-url.vercel.app
-- 🔗 Backend API: https://your-backend-url.onrender.com
+- 🌐 Frontend: https://job-portal-lake-nu.vercel.app
+- 🔗 Backend API: https://job-portal-da8f.onrender.com
 
 ---
 
